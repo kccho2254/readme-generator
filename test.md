@@ -1,34 +1,37 @@
-
-# sd 
+# ${projectName}
 
 ## Description
-    s  
+
+ ${summary}
 
 ## Installation
 
 Dependencies needed for installation:
 
-d
+${dependencies}
+
 ## Test Commands
 
-sd  
+${testCommands}
+
 ## Basics
-    
+ 
 Instructions for using the repo:
 
-s
+${repoBasics}
+
 
 ## Contributing
 
 Instructions for how to contribute to this repo:
 
-ds
+${constribute}
 
 ## License
-ds
+${license}
 
 ## About
 
-sdsd
+${gitName}
 
-
+${email}
