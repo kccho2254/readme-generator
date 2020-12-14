@@ -1,37 +1,34 @@
-# ${projectName}
+
+# test 
 
 ## Description
-
- ${summary}
+    test  
 
 ## Installation
 
 Dependencies needed for installation:
 
-${dependencies}
-
+test
 ## Test Commands
 
-${testCommands}
-
+test  
 ## Basics
- 
+    
 Instructions for using the repo:
 
-${repoBasics}
-
+test
 
 ## Contributing
 
 Instructions for how to contribute to this repo:
 
-${constribute}
+test
 
 ## License
-${license}
+test
 
 ## About
 
-${gitName}
+test
 
-${email}
+test

@@ -78,7 +78,7 @@ const questions = [
 function start(){
 
     inquirer.prompt(questions).then((res) => {        
-    writeFiles('README.md', generateMarkdown({...res}));
+    writeFiles('automatedREADME.md', generateMarkdown({...res}));
     })
 }
 
