@@ -7,7 +7,7 @@ This is an app that allows the user to generate a README.md file more efficientl
 
 ## Installation
 
-Dependencies needed for installation:
+Dependencies needed for installation:wiza
 
 ### [Inquirer](https://www.npmjs.com/package/inquirer)
 > Install within the specific file using "npm i inquirer"
@@ -15,12 +15,10 @@ Dependencies needed for installation:
 > Ensure dependency files are not being pushed to Github/etc. For Github, write "node_modules/" within a .gitignore file of the same parent repo. 
 ## Test Commands
 
+To initialize the app, open a command shell, navigate to the /readme-generator, and type the following:
+
 `` node index.js
 ``
-## Basics
-    
-Instructions for using the repo:
-
 # Contributing
 Feel free to reach out or request pulls from github. My classmates and class instructor Calvin are also to thank for helping me learn.
 
