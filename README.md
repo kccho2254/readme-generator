@@ -2,7 +2,8 @@
 # README Generator
 
 ## Description
-    This is an app that allows the user to generate a README.md file more efficiently by using the command "node index.js" while in the parent file from a command shell. Instead of writing out generic parts of the README file like "# Description", this app will create the basic structure of the file, and allow the user to write the particular parts for each section.
+
+This is an app that allows the user to generate a README.md file more efficiently by using the command "node index.js" while in the parent file from a command shell. Instead of writing out generic parts of the README file like "# Description", this app will create the basic structure of the file, and allow the user to write the particular parts for each section.
 
 ## Installation
 
