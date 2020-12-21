@@ -7,7 +7,7 @@ This is an app that allows the user to generate a README.md file more efficientl
 
 ## Installation
 
-Dependencies needed for installation:wiza
+Dependencies needed for installation:
 
 ### [Inquirer](https://www.npmjs.com/package/inquirer)
 > Install within the specific file using "npm i inquirer"
